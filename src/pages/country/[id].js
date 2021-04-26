@@ -27,8 +27,6 @@ const Country = ({ country }) => {
 
   console.log(borders);
 
-  //this part of the
-
   return (
     <Layout title={country.name}>
       <div className={styles.container}>
